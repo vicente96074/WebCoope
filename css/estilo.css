@@ -1,0 +1,16 @@
+* {
+	padding: 0 px;
+	margin: 0 px;
+}
+
+#header {
+	color:#097a6b;
+	margin: auto;
+	width: 100 px;
+	font-family: sans-serif;
+	/* display: flex; */
+	/*align-items: center; */
+	/*left: 50%;*/
+	/*vertical-align: middle;*/
+}
+
